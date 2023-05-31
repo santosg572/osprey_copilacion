@@ -1,0 +1,7 @@
+CommandLine  GUI  HBCD  LICENSE.md  cop.m
+santosg@copula:/misc/tournoux2/santosg/copilado$ cat cop.m 
+%addpath('/misc/tournoux2/santosg/osprey/utilities')
+%addpath('/misc/tournoux2/santosg/osprey')
+%addpath('/misc/tournoux2/santosg/spm12')
+
+CompileOspreyStandalone('/misc/tournoux2/santosg/copilado', '/misc/tournoux2/santosg/spm12')santosg@copula:/misc/tournoux2/santosg/copilado$ 
